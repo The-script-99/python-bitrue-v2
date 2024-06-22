@@ -26,8 +26,8 @@ class Client(object):
     API_URL = 'https://www.bitrue.com/api'
     WITHDRAW_API_URL = 'https://api.bitrue.com/wapi'
     WEBSITE_URL = 'https://www.bitrue.com'
-    PUBLIC_API_VERSION = 'v1'
-    PRIVATE_API_VERSION = 'v1'
+    PUBLIC_API_VERSION = 'v2'
+    PRIVATE_API_VERSION = 'v2'
     WITHDRAW_API_VERSION = 'v1'  #NOT ACTIVE
 
     SYMBOL_TYPE_SPOT = 'SPOT'
